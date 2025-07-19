@@ -1,0 +1,7 @@
+.mainBody {
+  flex: 1;
+  padding-left: .5rem;
+  width: 100%;
+  box-sizing: border-box;
+  overflow-y: auto;
+}

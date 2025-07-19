@@ -1,0 +1,173 @@
+[
+  {
+    "key": "atoms",
+    "label": "Atoms",
+    "expanded": false,
+    "children": [
+      {
+        "key": "atoms/form-controls",
+        "label": "Form Controls",
+        "expanded": false,
+        "children": [
+          { "key": "atoms/form-controls/button", "label": "Button" },
+          { "key": "atoms/form-controls/input", "label": "Input" },
+          { "key": "atoms/form-controls/checkbox", "label": "Checkbox" },
+          { "key": "atoms/form-controls/radio-button", "label": "Radio Button" },
+          { "key": "atoms/form-controls/toggle", "label": "Toggle" }
+        ]
+      },
+      {
+        "key": "atoms/display-elements",
+        "label": "Display Elements",
+        "expanded": false,
+        "children": [
+          { "key": "atoms/display-elements/avatar", "label": "Avatar" },
+          { "key": "atoms/display-elements/badge", "label": "Badge" },
+          { "key": "atoms/display-elements/icon", "label": "Icon" },
+          { "key": "atoms/display-elements/image", "label": "Image" },
+          { "key": "atoms/display-elements/spinner", "label": "Spinner" }
+        ]
+      },
+      {
+        "key": "atoms/backgrounds",
+        "label": "Backgrounds",
+        "expanded": false,
+        "children": [
+          { "key": "atoms/backgrounds/solid", "label": "Solid" },
+          { "key": "atoms/backgrounds/gradient", "label": "Gradient" },
+          {
+            "key": "atoms/backgrounds/3d-backgrounds",
+            "label": "3D Backgrounds",
+            "expanded": false,
+            "children": [
+              { "key": "atoms/backgrounds/3d-backgrounds/sphere", "label": "Sphere" },
+              { "key": "atoms/backgrounds/3d-backgrounds/cube", "label": "Cube" },
+              { "key": "atoms/backgrounds/3d-backgrounds/waves", "label": "Waves" }
+            ]
+          }
+        ]
+      },
+      {
+        "key": "atoms/typography",
+        "label": "Typography",
+        "expanded": false,
+        "children": [
+          { "key": "atoms/typography/headings", "label": "Headings" },
+          { "key": "atoms/typography/body-text", "label": "Body Text" },
+          { "key": "atoms/typography/links", "label": "Links" }
+        ]
+      },
+      { "key": "atoms/label", "label": "Label" },
+      { "key": "atoms/divider", "label": "Divider" }
+    ]
+  },
+  {
+    "key": "molecules",
+    "label": "Molecules",
+    "expanded": false,
+    "children": [
+      { "key": "molecules/search-box", "label": "Search Box" },
+      { "key": "molecules/form-field", "label": "Form Field" },
+      { "key": "molecules/button-group", "label": "Button Group" },
+      { "key": "molecules/pagination", "label": "Pagination" },
+      { "key": "molecules/breadcrumb", "label": "Breadcrumb" },
+      { "key": "molecules/tab", "label": "Tab" },
+      { "key": "molecules/dropdown", "label": "Dropdown" },
+      { "key": "molecules/accordion-item", "label": "Accordion Item" },
+      { "key": "molecules/card", "label": "Card" },
+      { "key": "molecules/alert", "label": "Alert" },
+      { "key": "molecules/tooltip", "label": "Tooltip" },
+      { "key": "molecules/progress-bar", "label": "Progress Bar" },
+      { "key": "molecules/slider", "label": "Slider" },
+      { "key": "molecules/tag", "label": "Tag" },
+      { "key": "molecules/date-picker", "label": "Date Picker" },
+      { "key": "molecules/time-picker", "label": "Time Picker" },
+      { "key": "molecules/file-upload", "label": "File Upload" },
+      { "key": "molecules/rating", "label": "Rating" },
+      { "key": "molecules/stepper", "label": "Stepper" }
+    ]
+  },
+  {
+    "key": "organisms",
+    "label": "Organisms",
+    "expanded": false,
+    "children": [
+      { "key": "organisms/header", "label": "Header" },
+      { "key": "organisms/footer", "label": "Footer" },
+      { "key": "organisms/navigation", "label": "Navigation" },
+      { "key": "organisms/sidebar", "label": "Sidebar" },
+      { "key": "organisms/form", "label": "Form" },
+      { "key": "organisms/table", "label": "Table" },
+      { "key": "organisms/data-grid", "label": "Data Grid" },
+      { "key": "organisms/modal", "label": "Modal" },
+      { "key": "organisms/drawer", "label": "Drawer" },
+      { "key": "organisms/popover", "label": "Popover" },
+      { "key": "organisms/accordion", "label": "Accordion" },
+      { "key": "organisms/tabs-container", "label": "Tabs Container" },
+      { "key": "organisms/carousel", "label": "Carousel" },
+      { "key": "organisms/gallery", "label": "Gallery" },
+      { "key": "organisms/calendar", "label": "Calendar" },
+      { "key": "organisms/chart", "label": "Chart" },
+      { "key": "organisms/feed", "label": "Feed" },
+      { "key": "organisms/comment-section", "label": "Comment Section" },
+      { "key": "organisms/product-list", "label": "Product List" },
+      { "key": "organisms/user-profile", "label": "User Profile" },
+      { "key": "organisms/search-results", "label": "Search Results" },
+      { "key": "organisms/filter-panel", "label": "Filter Panel" },
+      { "key": "organisms/shopping-cart", "label": "Shopping Cart" },
+      { "key": "organisms/notification-panel", "label": "Notification Panel" }
+    ]
+  },
+  {
+    "key": "templates",
+    "label": "Templates",
+    "expanded": false,
+    "children": [
+      { "key": "templates/landing-page", "label": "Landing Page" },
+      { "key": "templates/dashboard", "label": "Dashboard" },
+      { "key": "templates/article-page", "label": "Article Page" },
+      { "key": "templates/product-page", "label": "Product Page" },
+      { "key": "templates/profile-page", "label": "Profile Page" },
+      { "key": "templates/settings-page", "label": "Settings Page" },
+      { "key": "templates/login-page", "label": "Login Page" },
+      { "key": "templates/registration-page", "label": "Registration Page" },
+      { "key": "templates/404-page", "label": "404 Page" },
+      { "key": "templates/search-page", "label": "Search Page" },
+      { "key": "templates/contact-page", "label": "Contact Page" },
+      { "key": "templates/about-page", "label": "About Page" },
+      { "key": "templates/blog-page", "label": "Blog Page" },
+      { "key": "templates/checkout-page", "label": "Checkout Page" },
+      { "key": "templates/cart-page", "label": "Cart Page" },
+      { "key": "templates/onboarding", "label": "Onboarding" },
+      { "key": "templates/email-template", "label": "Email Template" },
+      { "key": "templates/invoice-template", "label": "Invoice Template" },
+      { "key": "templates/report-template", "label": "Report Template" }
+    ]
+  },
+  {
+    "key": "pages",
+    "label": "Pages",
+    "expanded": false,
+    "children": [
+      { "key": "pages/home-page", "label": "Home Page" },
+      { "key": "pages/admin-dashboard", "label": "Admin Dashboard" },
+      { "key": "pages/user-dashboard", "label": "User Dashboard" },
+      { "key": "pages/e-commerce-site", "label": "E-commerce Site" },
+      { "key": "pages/corporate-website", "label": "Corporate Website" },
+      { "key": "pages/portfolio-site", "label": "Portfolio Site" },
+      { "key": "pages/blog-site", "label": "Blog Site" },
+      { "key": "pages/documentation-site", "label": "Documentation Site" },
+      { "key": "pages/social-media-app", "label": "Social Media App" },
+      { "key": "pages/news-website", "label": "News Website" },
+      { "key": "pages/learning-platform", "label": "Learning Platform" },
+      { "key": "pages/banking-app", "label": "Banking App" },
+      { "key": "pages/healthcare-app", "label": "Healthcare App" },
+      { "key": "pages/travel-app", "label": "Travel App" },
+      { "key": "pages/food-delivery-app", "label": "Food Delivery App" },
+      { "key": "pages/fitness-app", "label": "Fitness App" },
+      { "key": "pages/music-app", "label": "Music App" },
+      { "key": "pages/video-streaming-app", "label": "Video Streaming App" },
+      { "key": "pages/project-management-app", "label": "Project Management App" }
+    ]
+  }
+]
